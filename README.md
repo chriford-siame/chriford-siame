@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://devsiame.vercel.app](https://devsiame.vercel.app)
 
-- 💬 Ask me about **Clean code**
+- 💬 Ask me about **Fullstack development**
 
 - 📫 How to reach me **developersiame@gmail.com**
 
