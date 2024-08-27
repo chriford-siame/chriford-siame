@@ -1,25 +1,25 @@
-<h1 align="center">Hello 👋, Chriford here</h1>
-<h3 align="center">A highly passionate & productive Software Engineer</h3>
+<h1 align="center">Hi, I'm Chriford</h1>
+<h3 align="center">A productive Software Engineer from Zambia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chriford-siame&label=Profile%20views&color=0e75b6&style=flat" alt="chriford-siame" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chriford-siame" alt="chriford-siame" /></a> </p>
 
-- 🔭 I’m currently working on an [Invoice Generator app](https://github.com/chriford-siame/invoice-web)
+- 🔭 I’m currently working on a [Real Estate](https://bondi.dev.finduracloud.com/) project
 
-- 🌱 I’m currently learning **Spring boot and Laravel**
+- 🌱 I’m currently learning **How To Make My Boss Happy!**
 
-- 🤝 I’m looking for help with [ProductZM](https://product-zm.vercel.app)
+- 🤝 I’m looking for help with [Finding A Right Company With Productive Engineers like Myself](https://product-zm.vercel.app) 
 
-- 👨‍💻 All of my projects are available at [https://devsiame.vercel.app](https://devsiame.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://devsiame.vercel.app)
 
-- 💬 Ask me about **Fullstack development**
+- 💬 Ask me about **Fullstack development & Infrastruture systems**
 
 - 📫 How to reach me **developersiame@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/chriford-siame-294737248](https://www.linkedin.com/in/chriford-siame-294737248)
+- 📄 Know about most of my experiences on [Linkedin](https://www.linkedin.com/in/chriford-siame-294737248)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I get angry when there is no progress**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
