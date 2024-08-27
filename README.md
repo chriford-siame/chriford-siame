@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **How To Make My Boss Happy!**
 
-- 🤝 I’m looking for help with [Finding A Right Company With Productive Engineers like Myself](https://product-zm.vercel.app) 
+- 🤝 I’m also looking for help with [Finding A Right Company With Productive Engineers like Myself](https://product-zm.vercel.app) 
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://devsiame.vercel.app)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://devsiame.vercel.app)
 
 - 💬 Ask me about **Fullstack development & Infrastruture systems**
 
