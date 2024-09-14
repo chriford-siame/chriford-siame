@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Chriford</h1>
+<h1 align="center" style="color: lime;">Hi, I'm Chriford</h1>
 <h3 align="center">A productive Software Engineer from Zambia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chriford-siame&label=Profile%20views&color=0e75b6&style=flat" alt="chriford-siame" /> </p>
